@@ -9,3 +9,4 @@ http://www.unity3d.ru/distribution/viewtopic.php?t=8819 - встроенные �
 https://null-code.ru/scripts/55-sozdanie-inventarya-personazha-v-unity.html - вариант создания инвентаря
 https://habr.com/ru/post/269645/ - концепция супертеррейна (динамическое изменение ланшафта)
 https://forum.unity.com/threads/destroyable-trees.28855/ - динамическое взрывание деревьев с террейна (с заменой текстур на мертвые)
+https://docs.unity3d.com/ScriptReference/TreeInstance.html - документация по TreeInstance (объекты деревьев на террейне)
