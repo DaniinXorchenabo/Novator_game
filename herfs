@@ -10,3 +10,4 @@ https://null-code.ru/scripts/55-sozdanie-inventarya-personazha-v-unity.html - в
 https://habr.com/ru/post/269645/ - концепция супертеррейна (динамическое изменение ланшафта)
 https://forum.unity.com/threads/destroyable-trees.28855/ - динамическое взрывание деревьев с террейна (с заменой текстур на мертвые)
 https://docs.unity3d.com/ScriptReference/TreeInstance.html - документация по TreeInstance (объекты деревьев на террейне)
+https://forum.unity.com/threads/point-nearest-neighbour-search-class.29923/ - kd-tree (kd-деревья) нахождение ближайших объектов к заданной точке (можно 2,3,4,5,... объекта по близости) среди огромного массива данных
