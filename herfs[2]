@@ -18,3 +18,4 @@ http://www.unity3d.ru/distribution/viewtopic.php?f=19&p=26991 - удвление
 http://unity3d.ru/distribution/viewtopic.php?f=19&t=2960 - расставление деревьев через скрипт
 https://docs.unity3d.com/ScriptReference/TerrainData-treeInstanceCount.html - получить количество деревьев на терейне
 https://habr.com/ru/post/454246/ - системы координат в UI
+https://docs.unity3d.com/ScriptReference/SerializeField.html - SerializeField поля в unity
