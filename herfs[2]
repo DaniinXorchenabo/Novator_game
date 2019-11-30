@@ -19,3 +19,4 @@ http://unity3d.ru/distribution/viewtopic.php?f=19&t=2960 - расставлен�
 https://docs.unity3d.com/ScriptReference/TerrainData-treeInstanceCount.html - получить количество деревьев на терейне
 https://habr.com/ru/post/454246/ - системы координат в UI
 https://docs.unity3d.com/ScriptReference/SerializeField.html - SerializeField поля в unity
+https://docs.microsoft.com/ru-ru/dotnet/csharp/language-reference/keywords/out-parameter-modifier - модификатор out в C#
