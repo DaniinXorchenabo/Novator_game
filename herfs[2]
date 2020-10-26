@@ -1,3 +1,23 @@
+https://youtu.be/qk_qp-QmDus - для новичков в юнити, но не то, что нужно 
+https://www.youtube.com/channel/UCI2m9eGu5GkfnZfhobL81Hg - то, что надо. Чувак, который разбирает скриптинг и свойства в Unity
+https://youtu.be/pJNPBW4QGhg - Создание персонажа из магазина от 3'его лица
+https://youtu.be/1mmHx6caqQE - Работа с MagicaVoxel, управление Unity
+https://youtu.be/CqrHGE_Tp2s - Vuforia создание Трампа
+https://youtu.be/DoDZuFNh4tw - движение камеры за игроком, (автобус). часть 1
+https://youtu.be/keIANWPiUWE - движение камеры за игроком, зомби шутер. часть 2
+https://code.tutsplus.com/tutorials/creating-ar-games-on-unity-using-vuforia-part-1--cms-27210?_ga=2.234783326.1906231294.1559227346-929372302.1559227346 - создание игры типа покемон Го (AR)
+https://habr.com/ru/post/440592/ - создание игры с питцей (AR)
+https://habr.com/ru/post/282524/ - Связь между разными файлами кода
+https://habr.com/ru/post/268663/  -создание и использование объектов для оптимизации памяти (там есть всякие ништячки по поводу кодинга)
+https://docs.unity3d.com/ScriptReference/Physics.Raycast.html - луч от одного объекта к другому || Physics.Raycast
+работа с коллайдерами (почему нельзя использовать теги):
+  http://www.unity3d.ru/distribution/viewtopic.php?f=11&t=31779 - часть 1
+  http://unity3d.ru/distribution/viewtopic.php?f=11&t=31787&p=206634#p206634 - часть 2
+https://docs.unity3d.com/ScriptReference/Collider.OnTriggerEnter.html - когда колайдеры пересекаются возникает OnTriggerEnter, ссылка на документацию и хороший пример использования
+https://library.vuforia.com/articles/Solution/How-To-Modify-the-Dataset-Configuration-XML-File-Outside-the-Target-Manager#How-To-Modify-a-Multi-Target-Using-its-Config-XML-File
+    - AR. как правильно изменять multi Target
+ https://www.gamedev.ru/code/forum/?id=191650 - форум с примеров колда для нахождения угла поворота стрелочки на векторе
+    
 https://nasa3d.arc.nasa.gov/models - 3d модели от NASA
 https://null-code.ru/scripts/10-fps-skript-upravleniiya-ot-pervogo-lica.html - скрипт управления персонажем
 https://www.youtube.com/watch?v=SRiI6rENaFE&list=PLY7lEIeNqQdOXAhgdvnSgv1ykCiBKLh_X&index=8 - контроль анимации персонажа в Unity
