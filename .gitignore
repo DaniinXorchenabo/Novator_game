@@ -46,6 +46,8 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.zip
+*.rar
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -64,10 +66,15 @@ crashlytics-build.properties
 
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/novator_game_2/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/novator_game_2/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/novator_game_2/[Aa]ssets/[Ss]treamingAssets/aa/*
+/novator_game_2/Library
+/novator_game_2/Logs
 
 # Exceptions
 !*.dll
